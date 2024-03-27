@@ -1,4 +1,4 @@
-# randomdex
+# Randomdex
 
 Display a random Pokemon and it's stats.
 
